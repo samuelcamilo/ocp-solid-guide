@@ -1,0 +1,11 @@
+C:\Github\ocp-solid\ExampleOCP\bin\Debug\netcoreapp2.1\ExampleOCP.deps.json
+C:\Github\ocp-solid\ExampleOCP\bin\Debug\netcoreapp2.1\ExampleOCP.runtimeconfig.json
+C:\Github\ocp-solid\ExampleOCP\bin\Debug\netcoreapp2.1\ExampleOCP.runtimeconfig.dev.json
+C:\Github\ocp-solid\ExampleOCP\bin\Debug\netcoreapp2.1\ExampleOCP.dll
+C:\Github\ocp-solid\ExampleOCP\bin\Debug\netcoreapp2.1\ExampleOCP.pdb
+C:\Github\ocp-solid\ExampleOCP\obj\Debug\netcoreapp2.1\ExampleOCP.csprojAssemblyReference.cache
+C:\Github\ocp-solid\ExampleOCP\obj\Debug\netcoreapp2.1\ExampleOCP.csproj.CoreCompileInputs.cache
+C:\Github\ocp-solid\ExampleOCP\obj\Debug\netcoreapp2.1\ExampleOCP.AssemblyInfoInputs.cache
+C:\Github\ocp-solid\ExampleOCP\obj\Debug\netcoreapp2.1\ExampleOCP.AssemblyInfo.cs
+C:\Github\ocp-solid\ExampleOCP\obj\Debug\netcoreapp2.1\ExampleOCP.dll
+C:\Github\ocp-solid\ExampleOCP\obj\Debug\netcoreapp2.1\ExampleOCP.pdb
